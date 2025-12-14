@@ -1,0 +1,1 @@
+Throughput Medio para tcp: 1272463.24548699 bps

@@ -44,7 +44,7 @@ while (<DATA>) {
 # Final print for the last time interval
 $total = $received + $discarded; #COMPLETAR - Compute total number of packets 
 if ($total > 0) {
-	$loss_rate = $discarded / $total # COMPLETAR - Calculate loss rate
+	$loss_rate = $discarded / $total; # COMPLETAR - Calculate loss rate
 } else {
 	$loss_rate = 0;
 }
