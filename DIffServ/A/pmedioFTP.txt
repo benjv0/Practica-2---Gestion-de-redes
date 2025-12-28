@@ -1,0 +1,1 @@
+Tasa de Perdidas Media para tcp: 0.015668044077135
