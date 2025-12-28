@@ -1,0 +1,1 @@
+Throughput Medio para cbr: 966861.779847312 bps

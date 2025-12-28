@@ -85,7 +85,7 @@ proc finish {} {
   puts "running NAM..."
 
   # Se ejecuta la herramienta NAM con el fichero out.nam generado
-  exec nam out.nam &
+  #exec nam out.nam &
 
   exit 0
 }
